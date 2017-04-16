@@ -5,7 +5,7 @@ Omnifood
 
 
 ## Project
-link to demo - [Omnifood](http://www.onfirmedia.co.uk/omnifood)
+link to demo - [Omnifood](http://www.onfiremedia.co.uk/omnifood)
 
 Food delivery service website
 
